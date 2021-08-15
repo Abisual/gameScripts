@@ -15,10 +15,10 @@ Map Sync
 Backpacks
 
 Related links:
-https://www.nexusmods.com/valheim/mods/42
-https://www.nexusmods.com/valheim/mods/61
-https://www.nexusmods.com/valheim/mods/1416
-https://www.nexusmods.com/valheim/mods/441
-https://www.nexusmods.com/valheim/mods/274
+https://www.nexusmods.com/valheim/mods/42  
+https://www.nexusmods.com/valheim/mods/61  
+https://www.nexusmods.com/valheim/mods/1416  
+https://www.nexusmods.com/valheim/mods/441  
+https://www.nexusmods.com/valheim/mods/274  
 
 
