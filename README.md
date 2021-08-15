@@ -1,24 +1,16 @@
-INSTALLATION
+## INSTALLATION
 
 Copy repository to your root game directory with file replacement.
 
-Hotkey:
+### Hotkey:
 
 Delete - for delete selected items. Also it can be changed in config.
 
-Installed:
+### Installed:
 
-Unrestricted Portals  
-Trash Items  
-Planting Plus  
-Map Sync  
-Backpacks
-
-Related links:  
-https://www.nexusmods.com/valheim/mods/42  
-https://www.nexusmods.com/valheim/mods/61  
-https://www.nexusmods.com/valheim/mods/1416  
-https://www.nexusmods.com/valheim/mods/441  
-https://www.nexusmods.com/valheim/mods/274  
+[Unrestricted Portals] (https://www.nexusmods.com/valheim/mods/61 "Unrestricted Portals nexusmods")
+[Trash Items] (https://www.nexusmods.com/valheim/mods/441 "Trash Items nexusmods")  
+[Planting Plus] (https://www.nexusmods.com/valheim/mods/274  "Planting Plus nexusmods")  
+[Map Sync] (https://www.nexusmods.com/valheim/mods/42  "Map Sync nexusmods")
 
 
