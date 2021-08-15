@@ -8,10 +8,10 @@ Delete - for delete selected items. Also it can be changed in config.
 
 Installed:
 
-Unrestricted Portals
-Trash Items
-Planting Plus
-Map Sync
+Unrestricted Portals  
+Trash Items  
+Planting Plus  
+Map Sync  
 Backpacks
 
 Related links:
